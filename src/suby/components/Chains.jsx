@@ -3,7 +3,7 @@ import { API_URL } from '../api';
 import { FaRegArrowAltCircleRight, FaRegArrowAltCircleLeft } from 'react-icons/fa';
 import { MagnifyingGlass } from 'react-loader-spinner';
 import { Link } from 'react-router-dom';
-
+//Akshay patil
 const Chains = () => {
     const [vendorData, setVendorData] = useState([]);
     const [loading, setLoading] = useState(true);
